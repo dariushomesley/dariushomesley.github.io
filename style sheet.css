@@ -1,0 +1,88 @@
+a:link{
+    color:yellow;
+    }
+    
+    
+a:visited{
+    color: green;
+    }
+    
+p{
+    font-family: "Ariel", "Helvetica", sans-serif;
+    font-size: 14px;
+    font-style:bold;
+    }
+    
+h5{
+    color: red;
+    font-size: 24px;
+}
+
+hr{
+    width: 100%;
+    }
+    
+#ex_1{
+    position: absolute; top: 50px; left: 550px;
+    background-color: white;
+    padding: 20px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: orange;
+    width: 180px;
+    height: 80px;
+}
+
+body{
+    background-color: silver;
+}
+
+#pic_mountains1{
+     position: absolute; top: 200px; left: 50px;
+     
+
+}
+
+#quote{
+    position: absolute; top: 200px; left: 60px;
+}
+
+
+
+#pic_mountains2{
+    position: absolute; top: 200px; left: 1500px;
+}
+
+#gif_world{
+    position: absolute; top: 780px; left: 1800px;
+    
+}
+
+#quote2{
+    position: absolute; top: 790px; left: 1510px;
+}
+
+
+    
+
+
+#gif_star{
+    position: relative; top: 100px; left: 2000px;
+}
+
+#gif_sun{
+    position: absolute; top: 45px; left: 1780px;
+}
+
+
+    
+
+
+#main{
+    background-color: purple;
+    border-style: solid;
+    border-color: orange;
+    width: 1420px;
+    height: 1000px;
+}
+
